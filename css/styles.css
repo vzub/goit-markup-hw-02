@@ -1,1 +1,79 @@
+body {
+    font-family: "Roboto" sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #4D5AE5
+    background-color: #fff;
+    line-height: 1.5;
+    
+}
+ul,
+ol {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+.logo .iris {
+    color: #4D5AE5;
+}
+.nav .link-studio {
+    font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.nav .link-portfolio {
+    font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.nav .link-contacts {
+    font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.adress .link-mail {
+    font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+            color: #434455
+}
+.adress .link-mail:hover,
+.adress .link-mail:active {
+    font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        color: #404BBF
+}
+.solution {
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07143;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #FFFFFF
+}
+.button {
+    font-weight: 500;
+        font-size: 16px;
+        letter-spacing: 0.04em;
+            color:#FFFFFF
+}
+.section-main {
+    background-color: #2E2F42;
+}
 

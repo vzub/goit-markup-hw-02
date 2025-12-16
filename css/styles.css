@@ -87,6 +87,8 @@ a {
     font-weight: 400;
         font-size: 16px;
         letter-spacing: 0.02em;
+        line-height: 1.5;
+        color: #434455;
 }
 /*TEAM*/
 .section-team {
@@ -114,6 +116,8 @@ a {
 .team-text {
     text-align: center;
     letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
 }
 /*PORTFOLIO*/
 .title-portfolio {
@@ -130,6 +134,13 @@ a {
         line-height: 1.2;
         letter-spacing: 0.02em;
             color: #2e2f42;
+}
+.portfolio-text {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 }
 /*FOOTER*/
 .footer {
